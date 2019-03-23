@@ -1,1 +1,7 @@
 11111
+git checkout -b lf dev_php7
+git add .
+git commit -m "commit"
+git checkot dev
+git merge --no-f lf
+git push origin/dev
